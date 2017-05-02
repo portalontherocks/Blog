@@ -5,7 +5,7 @@ title: "Portalonthe.Rocks"
 description: "Blog around CRM Portals"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://portalontherocks.github.io/blog # site url
-baseurl: "portalontherocks/portalontherocks.github.io/blog" # apply repo name if use it under gh-pages branch
+baseurl: "portalontherocks.github.io/blog" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
